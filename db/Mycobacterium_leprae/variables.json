@@ -1,5 +1,5 @@
 {
-    "snpEff_db":"Mycobacterium_leprae_tn",
+    "snpEff_db":"Mycobacterium_leprae_TN",
     "species":["Mycobacterium leprae"],
     "drugs":["rifampicin","dapsone","fluoroquinolones"]
 }
