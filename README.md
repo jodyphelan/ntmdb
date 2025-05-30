@@ -1,3 +1,8 @@
+# Repo moved
+
+> [!IMPORTANT]
+> This development of this database has moved to https://github.com/pathogen-profiler/ntm-db (and ntm-profiler now pulls from there)
+
 # ntmdb
 
 This repository hosts resistance databases for several non-tuberculous mycobacterial species as well as kmers which can be used to identify species.
